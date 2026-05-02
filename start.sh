@@ -7,5 +7,5 @@ echo "📦 Installing dependencies..."
 npm install
 
 echo "🚀 Starting dev server..."
-npm run devø
+npm run dev
 
